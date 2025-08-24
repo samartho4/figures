@@ -1,0 +1,33 @@
+{
+  "scenarios": 10,
+  "random_seed": 42,
+  "statistical_results": {
+    "r2_x2": {
+      "ci_upper": 0.07222960027270198,
+      "cohens_dz": -0.17548120686878427,
+      "mean_delta": -0.03219467844091084,
+      "p_value": 0.845703125,
+      "ci_lower": -0.14291209284522333
+    },
+    "rmse_x2": {
+      "ci_upper": 0.031113148939858604,
+      "cohens_dz": -0.07471162503342042,
+      "mean_delta": -0.004488086853509443,
+      "p_value": 0.921875,
+      "ci_lower": -0.039525213248515864
+    }
+  },
+  "file_hash": "ee419dcf4dba0b156923a15bffe5882a39aff70c5482f4eda62bebe5d36fb181",
+  "bootstrap_resamples": 10000,
+  "data_source": "per_scenario_summary.csv",
+  "figures": [
+    "fig1_scatter_rmse_x2_ude_vs_physics",
+    "fig2_hist_delta_rmse_x2_ude_minus_physics",
+    "fig3_bland_altman_rmse_x2",
+    "fig4_paired_lines_rmse_x2_by_model",
+    "fig5_r2x2_delta_ude_minus_physics",
+    "fig6_calibration_bnode_pre_post",
+    "fig7_baselines_rmse_r2_summary"
+  ],
+  "generated": "2025-08-24T17:46:38.999"
+}
