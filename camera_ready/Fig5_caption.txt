@@ -1,0 +1,1 @@
+Symbolic residual fit for UDE term f_θ(P_gen) showing learned relationship. Polynomial fit: f_θ(P) = 0.110 + 0.170 P + 0.073 P². R² = 0.9912, AIC = -93.81, BIC = -92.91. Data from checkpoints/ude_best_tuned.bson; commit: 8b5220a.

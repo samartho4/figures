@@ -1,0 +1,1 @@
+Probability Integral Transform (PIT) histogram for BNODE predictions. KS test for uniformity: statistic = 0.0500, p-value = 0.8000. Well-calibrated predictions should follow uniform distribution (dashed line). Data from results/simple_bnode_calibration_results.bson; commit: 8b5220a.

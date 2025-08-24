@@ -1,0 +1,1 @@
+Histogram of per-scenario RMSE differences (UDE - Physics) for state x₂. Negative values indicate UDE improvement. Mean ΔRMSE = -0.0031 [95% CI: -0.0044, -0.0017]; paired t-test p = 0.0023; Cohen's d = -0.1038. Data from results/working_baseline_comparison_results.bson; commit: 8b5220a.

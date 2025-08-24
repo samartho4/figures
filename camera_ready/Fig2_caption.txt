@@ -1,0 +1,1 @@
+Per-scenario RMSE on state x₂ comparing UDE to physics baseline (n=10 scenarios). Points below the diagonal indicate UDE improvement. Mean ΔRMSE (UDE−Physics) = -0.0031 [95% CI: -0.0044, -0.0017]; paired t-test p=0.0023; Cohen's d = -0.1038; Pearson r = 0.9973. Data from results/working_baseline_comparison_results.bson; Julia solver: Rodas5; commit: 8b5220a.

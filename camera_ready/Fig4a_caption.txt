@@ -1,0 +1,1 @@
+BNODE reliability diagram comparing pre-fix and post-fix calibration. Pre-fix shows severe under-coverage (50%: 0.005, 90%: 0.005), while post-fix achieves good calibration (50%: 0.541, 90%: 0.849). Wilson 95% confidence intervals shown for post-fix points. Data from results/simple_bnode_calibration_results.bson; commit: 8b5220a.
